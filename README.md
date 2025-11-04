@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="DevLinks portfolio interface showing a dark theme with profile photo, social links, and toggle switch for dark/light mode against a purple gradient background" src="[.github/preview.png](https://raw.githubusercontent.com/maykbrito/devlinks/main/.github/preview.jpg)" width="100%">
+  <img alt="DevLinks portfolio interface showing a dark theme with profile photo, social links, and toggle switch for dark/light mode against a purple gradient background" src="https://raw.githubusercontent.com/maykbrito/devlinks/main/.github/preview.jpg" width="100%">
   </p>
 
 <br>
@@ -39,4 +39,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
 
