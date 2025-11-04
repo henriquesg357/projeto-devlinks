@@ -1,4 +1,3 @@
-# Projeto-DevLinks
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
@@ -13,8 +12,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src=".github/preview.png" width="100%">
-</p>
+  <img alt="DevLinks portfolio interface showing a dark theme with profile photo, social links, and toggle switch for dark/light mode against a purple gradient background" src=".github/preview.png" width="100%">
+  </p>
 
 <br>
 
@@ -40,4 +39,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
